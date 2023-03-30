@@ -1,14 +1,20 @@
 # MobileAppExercise
 
-<h2>Yapılacaklar</h2>
+<h2 style="color: pink">Yapılacaklar</h2>
 
 <ul>
-  <li>Hangi araçlar kullanılacak.</li>
-  <li>Buluşma günleri belirlenecek</li>
+    <li></li>
+    <li>Hangi araçlar kullanılacak.</li>
+    <li>Buluşma günleri belirlenecek</li>
 </ul>
 
 <h3> Programala dili </h3>
-*Java
+<ul>
+    <li>Java</li>
+</ul>
+
 
 <h3> Çerçeve </h3>
-*Electron.js
+<ul>
+    <li>Electron.js</li>
+</ul>
