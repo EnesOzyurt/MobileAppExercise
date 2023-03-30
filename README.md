@@ -20,4 +20,4 @@
 </ul>
 
 <h2 align = "center">Proje</h2>
-<li>Bilgisayar başında uzun süre bilgisayar kullanımlarında omurga ve dolaşım sistemindeki yaşanan, ağrılar ve dolaşım problemlerine karşı egzersizi hatırlatma uygulaması.</li>
+<li>Bilgisayar başında uzun süre bilgisayar kullanımlarında omurga ve dolaşım sistemindeki yaşanan, ağrılar ve dolaşım problemlerine karşı &#128170; egzersizi hatırlatma uygulaması.</li>
