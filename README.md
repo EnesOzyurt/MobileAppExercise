@@ -12,7 +12,7 @@
     <li> - [ ] Dosyalama ve isimlendirme belirlenecek.</li>
     <li> - [ ] Arayüz oluşturulacak.</li>
 </ul>
-<p>- [x] #739</p>
+<h4>- [x] #739</h4>
 - [ ] https://github.com/octo-org/octo-repo/issues/740
 - [ ] Add delight to the experience when all tasks are complete :tada:
 
