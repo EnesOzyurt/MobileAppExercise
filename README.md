@@ -6,7 +6,7 @@
     <li> [x] Projenin konusu belirlenecek.</li>
     <li> [x] Hangi araçlar kullanılacak.</li>
     <li> [x] Buluşma günleri belirlenecek</li>
-    <li></li>
+    <li> [ ] Java projesini derleme öğrenilecek</li>
 </ul>
 
 <h3> Programala dili </h3>
