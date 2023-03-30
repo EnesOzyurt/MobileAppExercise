@@ -3,9 +3,10 @@
 <h2 align="center">&#127891;Yapılacaklar&#127891;</h2>
 
 <ul>
-    <li>Projenin konusu belirlenecek.</li>
-    <li>Hangi araçlar kullanılacak.</li>
-    <li>Buluşma günleri belirlenecek</li>
+    <li> [x] Projenin konusu belirlenecek.</li>
+    <li> [x] Hangi araçlar kullanılacak.</li>
+    <li> [x] Buluşma günleri belirlenecek</li>
+    <li></li>
 </ul>
 
 <h3> Programala dili </h3>
@@ -21,3 +22,4 @@
 
 <h2 align = "center">Proje</h2>
 <li>Bilgisayar başında uzun süre bilgisayar kullanımlarında omurga ve dolaşım sistemindeki yaşanan, ağrılar ve dolaşım problemlerine karşı &#128170; egzersizi hatırlatma uygulaması.</li>
+<li>İki günde bir iftardan 2 saat önce</li>
