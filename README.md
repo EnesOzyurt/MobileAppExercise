@@ -26,3 +26,9 @@
 <h2 align = "center">Proje</h2>
 <li>Bilgisayar başında uzun süre bilgisayar kullanımlarında omurga ve dolaşım sistemindeki yaşanan, ağrılar ve dolaşım problemlerine karşı &#128170; egzersizi hatırlatma uygulaması.</li>
 <li>İki günde bir iftardan 2 saat önce</li>
+
+<h2> Kaynaklar </h2>
+
+Maven ile uygulamayı derlemek için [Maven](https://spring.io/guides/gs/maven/).
+
+![Resim deneme](https://myoctocat.com/assets/images/base-octocat.svg)
