@@ -5,8 +5,11 @@
 <ul>
     <li> [x] Projenin konusu belirlenecek.</li>
     <li> [x] Hangi araçlar kullanılacak.</li>
-    <li> [x] Buluşma günleri belirlenecek</li>
-    <li> [ ] Java projesini derleme öğrenilecek</li>
+    <li> [x] Buluşma günleri belirlenecek.</li>
+    <li> [ ] Java projesini derleme öğrenilecek.</li>
+    <li> [ ] İş bölümü yapılacak.</li>
+    <li> [ ] Dosyalama ve isimlendirme belirlenecek.</li>
+    <li> [ ] Arayüz oluşturulacak.</li>
 </ul>
 
 <h3> Programala dili </h3>
