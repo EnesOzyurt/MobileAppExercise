@@ -10,6 +10,7 @@
     <li> - [ ] İş bölümü yapılacak.</li>
     <li> - [ ] Dosyalama ve isimlendirme belirlenecek.</li>
     <li> - [ ] Arayüz oluşturulacak.</li>
+    
 </ul>
 
 <h3> Programala dili </h3>
