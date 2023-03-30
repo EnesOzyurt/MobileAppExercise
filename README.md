@@ -1,6 +1,6 @@
 # MobileAppExercise
 
-<h2 style="color: pink;">Yapılacaklar</h2>
+<h2 style="color:blue;">Yapılacaklar</h2>
 
 <ul>
     <li></li>
