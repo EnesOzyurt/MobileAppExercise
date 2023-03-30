@@ -4,6 +4,7 @@
 
 <ul>
     <li> - [x] Projenin konusu belirlenecek.</li>
+    <li> - [x] https://github.com/AdguardTeam/AdGuardExtra/issues/422</li>
     <li> - [x] Hangi araçlar kullanılacak.</li>
     <li> - [x] Buluşma günleri belirlenecek.</li>
     <li> - [ ] Java projesini derleme öğrenilecek.</li>
