@@ -3,8 +3,7 @@
 <h2 align="center">&#127891;Yapılacaklar&#127891;</h2>
 
 <ul>
-    <li> - [x] Projenin konusu belirlenecek.</li>
-    <li> - [x] https://github.com/AdguardTeam/AdGuardExtra/issues/422</li>
+    <li> - [x] Projenin konusu belirlenecek.</li>    
     <li> - [x] Hangi araçlar kullanılacak.</li>
     <li> - [x] Buluşma günleri belirlenecek.</li>
     <li> - [ ] Java projesini derleme öğrenilecek.</li>
@@ -12,9 +11,6 @@
     <li> - [ ] Dosyalama ve isimlendirme belirlenecek.</li>
     <li> - [ ] Arayüz oluşturulacak.</li>
 </ul>
-<li>- [x] #739</li>
-- [ ] https://github.com/octo-org/octo-repo/issues/740
-- [ ] Add delight to the experience when all tasks are complete :tada:
 
 <h3> Programala dili </h3>
 <ul>
