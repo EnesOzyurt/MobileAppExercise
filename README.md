@@ -1,11 +1,11 @@
 # MobileAppExercise
 
-<h2 align="center">Yapılacaklar</h2>
+<h2 align="center">&#127891;Yapılacaklar&#127891;</h2>
 
 <ul>
-    <li>Projenin konusu belirlenecek.</li>
+    <li></li>
     <li>Hangi araçlar kullanılacak.</li>
-    <li>Buluşma günleri belirlenecek.</li>
+    <li>Buluşma günleri belirlenecek</li>
 </ul>
 
 <h3> Programala dili </h3>
@@ -13,9 +13,8 @@
     <li>Java</li>
 </ul>
 
+
 <h3> Çerçeve </h3>
 <ul>
     <li>Electron.js</li>
 </ul>
-
-<h3 align ="center">Proje</h3>
