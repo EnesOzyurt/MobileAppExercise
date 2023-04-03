@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ayarlar</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-XOWF..." crossorigin="anonymous">
+<link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+    <div class="container">
+        <div class="form"><!-- form alanları buraya gelecek -->
+          
+        </div>
+        <div class="additional-top"><!-- üst kısımdaki içerik buraya gelecek -->
+            <h3 class="baslik">Ayarlar</h3>
+            <div class="sag" >
+                <button class="return-btn"><i class="fas fa-arrow-left"></i></button>
+                <button class="close-btn"><i class="fas fa-times"></i></button>
+             <!-- <button class="ayar"><i class="fas fa-cog"></i></button> -->
+            </div>
+          
+        </div>
+        <div class="sidebar sidebar-left"><!-- sol taraftaki içerik buraya gelecek -->
+            
+            <div class="a-bildirim" style="padding-top: 20px;">
+                <h4>Bildirim Süresi(dk)</h4>
+                <input type="number" value="45" class="a-3" min="1" max="1440" placeholder="Dakika(1-1440)">
+            </div>
+            <div class="a-bildirim" style="padding-top: 25px; padding-left: 25px;">
+                <h4 style="padding-left: 0px;">Bildirim Sesi</h4>
+                <select style="border: 1px solid #ff8502; background-color: #131419; color: beige;" class="profile" style="border-color: black; ">
+                    <option value="profil1" >Ses-1</option>
+                    <option value="profil2" >Ses-2</option>
+                    <option value="profil3" >Ses-3</option> 
+                    <option value="profil4" >Ses-4</option>
+                </select>
+            </div>
+          
+        </div>
+        <div class="sidebar sidebar-right"><!-- sağ taraftaki içerik buraya gelecek -->
+            
+            <div class="a-bildirim" style="padding-top: 20px; padding-left: 25px;">
+                <h4 style="padding-left: 0;">Ses Düzeyi</h4>
+                <input type="range"  style="width: 180px;" >
+            </div>
+            <div class="a-bildirim" style="padding-top: 19px; padding-left: 25px; ">
+                <h4 style="padding-left: 0px;">Profil</h4>
+                <select style="border: 1px solid #ff8502; background-color: #131419; color: beige;" class="profile" style="border-color: black; ">
+                    <option value="profil1" >Profil-1</option>
+                    <option value="profil2" >Profil-2</option>
+                    <option value="profil3" >Profil-3</option> 
+                    <option value="profil4" >Profil-4</option>
+                </select>
+            </div>
+            
+          
+        </div>
+        <div class="additional-content"><!-- alt kısımdaki içerik buraya gelecek -->
+            <div class="a-bildirim" style=" padding-left: 22px; padding-top: 12.5px;">
+
+                <select style=" border: 1px solid #ff8502; background-color: #131419; color: beige; bottom: auto; width: 185px;" class="profile-2"  >
+                    <option value="" disabled selected >Tema</option>
+                    <option value="profil1" >Tema-1</option>
+                    <option value="profil2" >Tema-2</option>
+                    <option value="profil3" >Tema-3</option> 
+                    <option value="profil4" >Tema-4</option>
+                </select>
+            </div>
+            <button type="submit" class="a-kaydet">Kaydet</button>
+
+          
+        </div>
+      </div>
+      
+    
+</body>
+</html>
