@@ -14,7 +14,7 @@
 
 <h3> Programala dili </h3>
 <ul>
-    <li>JavaScript, TyprScript</li>
+    <li>JavaScript, TypeScript</li>
 </ul>
 
 
@@ -29,7 +29,9 @@
 
 <h2> Kaynaklar </h2>
 
-*   [Electronjs](https://www.electronjs.org/docs/latest/)  <a href="[https://spring.io/guides/gs/maven/](https://www.electronjs.org/docs/latest/)">
+*   [Electronjs](https://www.electronjs.org/docs/latest/)  
+
+<a href="[https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html]">
     <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="[https://raw.githubusercontent.com/EnesOzyurt/MobileAppExercise/main/images/TypeScript.png]">
 </a>
 
