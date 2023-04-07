@@ -14,13 +14,24 @@
 
 <h3> Programala dili </h3>
 <ul>
-    <li>JavaScript, TypeScript</li>
+    <li>JavaScript</li>
+    <li>TypeScript</li>
+    <a href="https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html">
+    <img alt="TypeScript sauce for learning." src="https://raw.githubusercontent.com/EnesOzyurt/MobileAppExercise/PR_branch/images/TypeScript2.png">
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics">
+    <img alt="TypeScript sauce for learning." src="https://github.com/EnesOzyurt/MobileAppExercise/blob/PR_branch/images/JavaScript2.png?raw=true"> 
+</a> 
 </ul>
 
 
 <h3> Çerçeve </h3>
 <ul>
-    <li>Electronjs</li>
+    <li>Electronjs </li>
+    <a href="https://www.electronjs.org/docs/latest/">
+    <img alt="Electronjs sauce for learning." src="https://github.com/EnesOzyurt/MobileAppExercise/blob/PR_branch/images/electronjs2.jpg?raw=true">
+    </a>
+    
 </ul>
 
 <h2 align = "center">Proje</h2>
@@ -30,18 +41,9 @@
 <h2> Kaynaklar </h2>
 
 *   [Electronjs](https://www.electronjs.org/docs/latest/) 
+    
 
-*   <a href="https://www.electronjs.org/docs/latest/">
-    <img alt="Electronjs sauce for learning." src="https://github.com/EnesOzyurt/MobileAppExercise/blob/main/images/electronjs2.jpg?raw=true">
-</a>
+*   [TypeScript](https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html) 
+    
 
-*   [TypeScript](https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html)
-
-*   <a href="https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html">
-    <img alt="TypeScript sauce for learning." src="https://raw.githubusercontent.com/EnesOzyurt/MobileAppExercise/main/images/TypeScript2.png">
-</a>
-
-*   [JavaScript](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
-*   <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics">
-    <img alt="TypeScript sauce for learning." src="https://raw.githubusercontent.com/EnesOzyurt/MobileAppExercise/main/images/JavaScript2.png">
-</a>
+*   [JavaScript](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)       
