@@ -29,11 +29,12 @@
 
 <h2> Kaynaklar </h2>
 
-*   [Electronjs](https://www.electronjs.org/docs/latest/)
-*   <a href="[https://spring.io/guides/gs/maven/](https://www.electronjs.org/docs/latest/)">
+*   [Electronjs](https://www.electronjs.org/docs/latest/)  <a href="[https://spring.io/guides/gs/maven/](https://www.electronjs.org/docs/latest/)">
     <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="[https://raw.githubusercontent.com/EnesOzyurt/MobileAppExercise/main/images/TypeScript.png]">
 </a>
+
 *   [TypeScript](https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html)
+*   
 *   [JavaScript](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
 
 
