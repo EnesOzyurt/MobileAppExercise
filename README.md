@@ -31,8 +31,12 @@
 
 *   [Electronjs](https://www.electronjs.org/docs/latest/)  
 
-<a href="[https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html]">
-    <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="[https://raw.githubusercontent.com/EnesOzyurt/MobileAppExercise/main/images/TypeScript.png]">
+<a href="https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html">
+    <img alt="TyprScript sauce for learning." src="https://raw.githubusercontent.com/EnesOzyurt/MobileAppExercise/main/images/TypeScript.png">
+</a>
+
+<a href="https://spring.io/guides/gs/maven/">
+    <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 </a>
 
 *   [TypeScript](https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html)
