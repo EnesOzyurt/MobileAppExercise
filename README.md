@@ -32,16 +32,16 @@
 *   [Electronjs](https://www.electronjs.org/docs/latest/) 
 
 *   <a href="https://www.electronjs.org/docs/latest/">
-    <img alt="Electronjs sauce for learning." src="https://github.com/EnesOzyurt/MobileAppExercise/blob/main/images/electronjs.jpg?raw=true">
+    <img alt="Electronjs sauce for learning." src="https://github.com/EnesOzyurt/MobileAppExercise/blob/main/images/electronjs2.jpg?raw=true">
 </a>
 
 *   [TypeScript](https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html)
 
 *   <a href="https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html">
-    <img alt="TypeScript sauce for learning." src="https://raw.githubusercontent.com/EnesOzyurt/MobileAppExercise/main/images/TypeScript.png">
+    <img alt="TypeScript sauce for learning." src="https://raw.githubusercontent.com/EnesOzyurt/MobileAppExercise/main/images/TypeScript2.png">
 </a>
 
 *   [JavaScript](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
 *   <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics">
-    <img alt="TypeScript sauce for learning." src="https://raw.githubusercontent.com/EnesOzyurt/MobileAppExercise/main/images/JavaScript.png">
+    <img alt="TypeScript sauce for learning." src="https://raw.githubusercontent.com/EnesOzyurt/MobileAppExercise/main/images/JavaScript2.png">
 </a>
